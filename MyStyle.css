@@ -1,0 +1,100 @@
+body{
+    margin: 0px;
+    font-family: 'Square Peg' 'Arial';
+}
+.div-image-wrapper{
+    background-color: #264653;
+    text-align: center;
+    color: white;
+    padding: 25px;
+    margin: 0px;
+   
+}
+#para-style{
+    font-weight: bold;
+    font-style: italic;
+}
+.image-class{
+    width: 400px;
+    border-radius: 200px;
+    
+}
+.about{
+    background-color: #90e0ef;
+    padding: 30px;
+    margin: 70px;
+    line-height: 25px;
+    border-radius: 30px;
+}
+#about-2{
+    font-style: italic;
+}
+#about-3{
+    font-style: italic;
+}
+.hobbies{
+    border-top: 5px solid #e63946;
+    border-bottom: 5px solid #e63946;
+    padding: 25px;
+    margin: 70px;
+    
+
+}
+#ul-1{
+    font-style: italic ;
+    font-size: 20px;
+}
+.movie-poster{
+    height: 450px;
+}
+.movie-list-items{
+   display: inline-block;
+}
+#movie-name{
+    text-align: center;
+    font-weight: bold;
+}
+.FavMov{
+    padding: 25px;
+    margin: 70px;
+}
+.ul-start{
+    text-align: center;
+}
+.education-table{
+    width: 100%;
+    padding: 20px;
+
+}
+#tab-data{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 20px;
+    text-align: left;
+    border: 2px solid black;
+    
+}
+#tab-head{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 15px;
+    padding-bottom: 50px;
+    font-size: 20px;
+    text-align: left;
+    border: 2px solid black;
+}
+.education-div{
+    padding: 25px;
+    margin: 70px;
+    border-top: 5px solid #e63946 ;
+    border-bottom: 5px solid #e63946;
+}
+.space-container{
+    border-top: 5px solid blue;
+    padding: 25px;
+    margin: 70px;
+}
+
+
